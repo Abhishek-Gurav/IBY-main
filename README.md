@@ -1,6 +1,6 @@
-# Name : Abhishek Gurav
-# University : Indian Institute of Technology (ISM) Dhanbad
-# Department : Environmental Engineering
+### Name : Abhishek Gurav
+### University : Indian Institute of Technology (ISM) Dhanbad
+### Department : Environmental Engineering
 
 # Getting Started with Create React App
 
