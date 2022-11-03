@@ -16,8 +16,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### Add the below environmental variables by creating .env file in Server folder and copy pasting following lines
 MONGO_URL = "mongodb+srv://Abhishek:Gurav@cluster0.qqdo4r0.mongodb.net/?retryWrites=true&w=majority"
+
 JWT_SECRET = "aslkdnaseldknAASKDVBDCsvnwjdksjdfbxlvnjdfihfbvjbvhbvjdbvh"
+
 PARALLEL_DOTS_API_KEY = "34gRgEBZR2txKfrylliQQDaIY8ADypiYycKAIt52kyI"
+
 FRONTEND_URL = "http://localhost:3000"
 
 ### Then run `node app` on terminal in same folder
