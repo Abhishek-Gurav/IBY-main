@@ -15,6 +15,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ### `npm install` in Server folder 
 
 ### Add the below environmental variables by creating .env file in Server folder and copy pasting following lines
+
+#### Just for testing purpose.
+
 MONGO_URL = "mongodb+srv://Abhishek:Gurav@cluster0.qqdo4r0.mongodb.net/?retryWrites=true&w=majority"
 
 JWT_SECRET = "aslkdnaseldknAASKDVBDCsvnwjdksjdfbxlvnjdfihfbvjbvhbvjdbvh"
